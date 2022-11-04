@@ -1,2 +1,2 @@
-# medistats
-A book of medical statistics. Rendered with mdbook. 
+# blog
+My personal blog.
