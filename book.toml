@@ -1,9 +1,18 @@
 [book]
-authors = ["John"]
+authors = ["John Moïse"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Medical Statistics"
+title = "johnmoise.md"
 
 [build]
 build-dir = "docs"
+
+[output.html]
+curly-quotes = true
+mathjax-support = true
+no-section-label = true
+git-repository-url = "https://github.com/johnmoise/blog"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/johnmoise/blog/edit/main/{path}"
+site-url = "https://johnmoise.github.io/blog/"
